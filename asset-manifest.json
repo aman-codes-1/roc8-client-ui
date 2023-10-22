@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roc8-client-ui/static/css/main.9bfc1ecb.css",
+    "main.js": "/roc8-client-ui/static/js/main.7c6cd26a.js",
+    "static/js/787.87acf722.chunk.js": "/roc8-client-ui/static/js/787.87acf722.chunk.js",
+    "index.html": "/roc8-client-ui/index.html",
+    "main.9bfc1ecb.css.map": "/roc8-client-ui/static/css/main.9bfc1ecb.css.map",
+    "main.7c6cd26a.js.map": "/roc8-client-ui/static/js/main.7c6cd26a.js.map",
+    "787.87acf722.chunk.js.map": "/roc8-client-ui/static/js/787.87acf722.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bfc1ecb.css",
+    "static/js/main.7c6cd26a.js"
+  ]
+}
