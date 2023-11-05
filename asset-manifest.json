@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/roc8-client-ui/static/css/main.64eb6a16.css",
-    "main.js": "/roc8-client-ui/static/js/main.558d6659.js",
+    "main.css": "/roc8-client-ui/static/css/main.1dd59ddd.css",
+    "main.js": "/roc8-client-ui/static/js/main.f29f0671.js",
     "static/js/787.87acf722.chunk.js": "/roc8-client-ui/static/js/787.87acf722.chunk.js",
     "index.html": "/roc8-client-ui/index.html",
-    "main.64eb6a16.css.map": "/roc8-client-ui/static/css/main.64eb6a16.css.map",
-    "main.558d6659.js.map": "/roc8-client-ui/static/js/main.558d6659.js.map",
+    "main.1dd59ddd.css.map": "/roc8-client-ui/static/css/main.1dd59ddd.css.map",
+    "main.f29f0671.js.map": "/roc8-client-ui/static/js/main.f29f0671.js.map",
     "787.87acf722.chunk.js.map": "/roc8-client-ui/static/js/787.87acf722.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64eb6a16.css",
-    "static/js/main.558d6659.js"
+    "static/css/main.1dd59ddd.css",
+    "static/js/main.f29f0671.js"
   ]
 }
